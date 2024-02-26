@@ -1,0 +1,22 @@
+Web scraping Amazon can be challenging due to JavaScript rendering. for that we used Splash to render JavaScript pages efficiently.
+
+Follow these steps to set up the project:
+
+##Step1:Install Docker
+Install Docker to utilize the Splash rendering service.
+Visit the official Docker website to download and install Docker: https://www.docker.com
+
+##Step 2: Download Splash Image
+Open a terminal and run the following command to download the latest Splash image:
+```bash
+docker pull scrapinghub/splash
+
+##Step 3: Start Splash Container
+Run the following command to start the Splash container at port 8050:
+docker run -it -p 8050:8050 --rm scrapinghub/splash
+
+The Splash service is now running, and you are ready to use it for rendering JavaScript pages.
+Now, You can run the code .
+
+GOOD LUCK <3
+
