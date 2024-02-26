@@ -73,11 +73,12 @@ Now, You can run the code .
 
 - [@HananeNadi](https://github.com/HananeNadi)
 
-## Contacte me 
-feel free to contact me at : 
-Email : nadi.hanane01@gmail.com
-or
-linkedin : https://www.linkedin.com/in/hanane-nadi-32089a251/
+## Contact Me
+
+Feel free to contact me at:
+
+- Email: nadi.hanane01@gmail.com
+- LinkedIn: [Hanane Nadi](https://www.linkedin.com/in/hanane-nadi-32089a251/)
 
 
 
