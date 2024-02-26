@@ -51,6 +51,7 @@ Follow these steps to set up the project:
 
 - **Step 1**: Install Docker to utilize the Splash rendering service.
 Visit the official Docker website to download and install Docker: [https://www.docker.com](https://www.docker.com)
+
 - **Step 2**: Download Splash Image
   Open a terminal and execute the following command to download the latest Splash image:
 
@@ -73,8 +74,9 @@ Now, You can run the code .
 - [@HananeNadi](https://github.com/HananeNadi)
 
 ## Contacte me 
-feel free to contact me at 
+feel free to contact me at : 
 Email : nadi.hanane01@gmail.com
+or
 linkedin : https://www.linkedin.com/in/hanane-nadi-32089a251/
 
 
