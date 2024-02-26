@@ -21,13 +21,13 @@ Online shopping presents a vast array of choices, making it increasingly challen
 
 ## Preview
  
-<img width="910" alt="1" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/b4031cca-4f3c-45a6-ad70-b484e1ecc4a9">
+<img width="849" alt="1" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/b4031cca-4f3c-45a6-ad70-b484e1ecc4a9">
 
 <img width="849" alt="2" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/9ef75d23-7deb-4437-bde2-6975fb8969ff">
 
-<img width="905" alt="3" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/a7a161d0-ac0f-4eb8-9531-69384e9ed52f">
+<img width="849" alt="3" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/a7a161d0-ac0f-4eb8-9531-69384e9ed52f">
 
-<img width="902" alt="4" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/4b9c8825-7636-411c-b65b-2d079828199c">
+<img width="849" alt="4" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/4b9c8825-7636-411c-b65b-2d079828199c">
 
 
 ## Behind the scenes
