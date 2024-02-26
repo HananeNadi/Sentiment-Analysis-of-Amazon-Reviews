@@ -19,6 +19,14 @@ Online shopping presents a vast array of choices, making it increasingly challen
 
 - **Deployment**: Created a user-friendly website with HTML, CSS, and Flask, offering intuitive design and enabling input of Amazon product URLs.
 
+## Tools Used
+
+- Python
+- Flask
+- HTML
+- CSS
+
+  
 ## Preview
  
 <img width="849" alt="1" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/b4031cca-4f3c-45a6-ad70-b484e1ecc4a9">
@@ -36,9 +44,38 @@ Online shopping presents a vast array of choices, making it increasingly challen
 
 
 ## Requirement 
+Web scraping Amazon can be challenging due to JavaScript rendering. For that, we used Splash to render JavaScript pages efficiently.
+
+### Setup Instructions
+Follow these steps to set up the project:
+
+- **Step 1**: Install Docker to utilize the Splash rendering service.
+Visit the official Docker website to download and install Docker: [https://www.docker.com](https://www.docker.com)
+- **Step 2**: Download Splash Image
+  Open a terminal and execute the following command to download the latest Splash image:
+
+```bash
+docker pull scrapinghub/splash
+```
+
+- **Step 3**: Start Splash Container
+Run the following command to start the Splash container at port 8050:
+
+```bash
+docker run -it -p 8050:8050 --rm scrapinghub/splash
+```
+The Splash service is now running, and you are ready to use it for rendering JavaScript pages.
+Now, You can run the code .
 
 
+## Authors
 
+- [@HananeNadi](https://github.com/HananeNadi)
+
+## Contacte me 
+feel free to contact me at 
+Email : nadi.hanane01@gmail.com
+linkedin : https://www.linkedin.com/in/hanane-nadi-32089a251/
 
 
 
