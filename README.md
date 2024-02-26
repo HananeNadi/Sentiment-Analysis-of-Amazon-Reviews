@@ -17,15 +17,25 @@ Online shopping presents a vast array of choices, making it increasingly challen
 
 - **Evaluation**: Employed rigorous evaluation metrics, including accuracy, precision, recall, and F1-score, to meticulously assess model performance. Leveraged grid search techniques to optimize model parameters, ultimately selecting SVM as the top-performing classifier for our task.
 
+- **Deployment**: Created a user-friendly website with HTML, CSS, and Flask, offering intuitive design and enabling input of Amazon product URLs.
+
 ## Preview
  
 <img width="910" alt="1" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/b4031cca-4f3c-45a6-ad70-b484e1ecc4a9">
 
 <img width="849" alt="2" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/9ef75d23-7deb-4437-bde2-6975fb8969ff">
 
-<img width="710" alt="3" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/6dcd4da2-3723-4750-a24b-baea0c8120bc">
+<img width="905" alt="3" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/a7a161d0-ac0f-4eb8-9531-69384e9ed52f">
 
-<img width="717" alt="4" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/eabdc026-be90-43d0-89ad-f61638c6d65f">
+<img width="902" alt="4" src="https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/4b9c8825-7636-411c-b65b-2d079828199c">
+
+
+## Behind the scenes
+
+![URL](https://github.com/HananeNadi/Sentiment-Analysis-of-Amazon-Reviews/assets/127529925/dd33282a-e7b0-44d6-a457-09faace5e8f9)
+
+
+## Requirement 
 
 
 
