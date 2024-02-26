@@ -5,7 +5,7 @@ Online shopping presents a vast array of choices, making it increasingly challen
 
 ## Key highlights : 
 
-- Data Collection: Utilized a vast dataset of Amazon's fashion reviews to train our model, ensuring comprehensive coverage and relevance.
+- **Data Collection **: Utilized a vast dataset of Amazon's fashion reviews to train our model, ensuring comprehensive coverage and relevance.
   
 - Data Cleaning & Pre-Processing: Employed meticulous data cleaning and preprocessing techniques to refine textual data, including the removal of punctuation and stop words, tokenization, and lemmatization, enhancing the effectiveness of sentiment analysis. 
 
